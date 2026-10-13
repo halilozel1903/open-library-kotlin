@@ -31,7 +31,11 @@ class LibraryRepository(private val client: OpenLibraryClient, private val stric
     suspend fun workDetail(workId: String): WorkDetail = coroutineScope {
         val work = client.work(workId)
         // A merged work redirects; ask for the editions of the work it points to.
-        val editions = async { client.editions(work.olid, limit = 12) }
+        // Many editions have no cover; fetch a wider page and list the ones with covers first.
+        val editions = async {
+            val page = client.editions(work.olid, limit = EDITION_POOL)
+            page.copy(entries = page.entries.sortedBy { it.coverId == null }.take(EDITIONS_SHOWN))
+        }
         val authors = work.authorIds.distinct().take(MAX_AUTHORS).map { id ->
             async {
                 try {
@@ -64,6 +68,8 @@ class LibraryRepository(private val client: OpenLibraryClient, private val stric
 
     companion object {
         private const val MAX_AUTHORS = 3
+        private const val EDITION_POOL = 50
+        private const val EDITIONS_SHOWN = 12
         private const val DAY_MILLIS = 86_400_000L
     }
 }
