@@ -1,0 +1,41 @@
+{
+  "links": {
+    "self": "/authors/OL26320A/works.json?limit=2",
+    "author": "/authors/OL26320A",
+    "next": "/authors/OL26320A/works.json?limit=2&offset=2"
+  },
+  "size": 450,
+  "entries": [
+    {
+      "key": "/works/OL27448W",
+      "title": "The Lord of the Rings",
+      "covers": [
+        14625765
+      ],
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL26320A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      }
+    },
+    {
+      "key": "/works/OL262758W",
+      "title": "The Hobbit",
+      "description": {
+        "type": "/type/text",
+        "value": "A hobbit goes there and back again."
+      },
+      "type": {
+        "key": "/type/work"
+      }
+    }
+  ]
+}

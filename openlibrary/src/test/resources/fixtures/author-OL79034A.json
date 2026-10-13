@@ -1,0 +1,13 @@
+{
+  "key": "/authors/OL79034A",
+  "name": "Frank Herbert",
+  "birth_date": "8 October 1920",
+  "death_date": "11 February 1986",
+  "bio": "Franklin Patrick Herbert Jr. was an American science fiction author.",
+  "photos": [
+    6391082
+  ],
+  "type": {
+    "key": "/type/author"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "key": "/subjects/science_fiction",
+  "name": "Science fiction",
+  "subject_type": "subject",
+  "work_count": 21345,
+  "ebook_count": 4321,
+  "works": [
+    {
+      "key": "/works/OL893415W",
+      "title": "Dune",
+      "edition_count": 120,
+      "cover_id": 11481354,
+      "cover_edition_key": "OL26242482M",
+      "subject": [
+        "Science fiction",
+        "Dune (Imaginary place)"
+      ],
+      "ia_collection": [
+        "inlibrary"
+      ],
+      "lendinglibrary": false,
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL79034A",
+          "name": "Frank Herbert"
+        }
+      ],
+      "first_publish_year": 1965,
+      "ia": "dune00herb",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available"
+      }
+    },
+    {
+      "key": "/works/OL46125W",
+      "title": "Foundation",
+      "edition_count": 90,
+      "cover_id": null,
+      "authors": [
+        {
+          "key": "/authors/OL34221A",
+          "name": "Isaac Asimov"
+        }
+      ],
+      "first_publish_year": 1951
+    }
+  ],
+  "subjects": [
+    {
+      "key": "/subjects/fiction",
+      "name": "Fiction",
+      "count": 12000
+    }
+  ],
+  "places": [
+    {
+      "key": "/subjects/place:mars_(planet)",
+      "name": "Mars (Planet)",
+      "count": 300
+    }
+  ],
+  "people": [],
+  "times": [
+    {
+      "key": "/subjects/time:21st_century",
+      "name": "21st century",
+      "count": 150
+    }
+  ],
+  "authors": [
+    {
+      "name": "Isaac Asimov",
+      "key": "/authors/OL34221A",
+      "count": 240
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Tor",
+      "count": 800
+    }
+  ],
+  "publishing_history": [
+    [
+      1950,
+      120
+    ],
+    [
+      1951,
+      130
+    ],
+    [
+      1949
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "docs": [
+    {
+      "key": "OL26320A",
+      "type": "author",
+      "name": "J.R.R. Tolkien",
+      "alternate_names": [
+        "J. R. R. Tolkien"
+      ],
+      "birth_date": "3 January 1892",
+      "death_date": "2 September 1973",
+      "top_work": "The Hobbit",
+      "work_count": 450,
+      "top_subjects": [
+        "Fiction",
+        "Fantasy"
+      ],
+      "_version_": 1
+    }
+  ]
+}

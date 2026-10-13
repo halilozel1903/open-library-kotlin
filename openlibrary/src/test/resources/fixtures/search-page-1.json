@@ -1,0 +1,14 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "docs": [
+    {
+      "key": "/works/OL1W",
+      "title": "Book 1"
+    },
+    {
+      "key": "/works/OL2W",
+      "title": "Book 2"
+    }
+  ]
+}

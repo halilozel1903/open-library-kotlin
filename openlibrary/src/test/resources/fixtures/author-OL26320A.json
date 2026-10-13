@@ -1,0 +1,32 @@
+{
+  "key": "/authors/OL26320A",
+  "name": "J.R.R. Tolkien",
+  "personal_name": "John Ronald Reuel Tolkien",
+  "alternate_names": [
+    "John Ronald Reuel Tolkien",
+    "J. R. R. Tolkien"
+  ],
+  "birth_date": "3 January 1892",
+  "death_date": "2 September 1973",
+  "bio": {
+    "type": "/type/text",
+    "value": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic."
+  },
+  "photos": [
+    -1,
+    6791763
+  ],
+  "remote_ids": {
+    "wikidata": "Q892",
+    "viaf": "95218067"
+  },
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+    }
+  ],
+  "type": {
+    "key": "/type/author"
+  }
+}

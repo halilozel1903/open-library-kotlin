@@ -1,0 +1,17 @@
+{
+  "key": "/works/OL1W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "location": "/works/OL27448W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-11T01:57:19.964652"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-03-02T09:10:11.000000"
+  }
+}

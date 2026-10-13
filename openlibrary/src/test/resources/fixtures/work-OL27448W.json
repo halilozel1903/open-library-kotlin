@@ -1,0 +1,74 @@
+{
+  "key": "/works/OL27448W",
+  "title": "The Lord of the Rings",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26320A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Originally published from 1954 through 1956, J.R.R. Tolkien's richly complex series ushered in a new age of epic adventure storytelling."
+  },
+  "covers": [
+    -1,
+    14625765,
+    8406786
+  ],
+  "subjects": [
+    "Fantasy fiction",
+    "Middle Earth (Imaginary place)",
+    "Quests (Expeditions)"
+  ],
+  "subject_places": [
+    "Middle Earth (Imaginary place)",
+    "Mordor"
+  ],
+  "subject_people": [
+    "Frodo Baggins",
+    "Gandalf"
+  ],
+  "subject_times": [
+    "Third Age"
+  ],
+  "first_publish_date": "1954",
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "When Mr. Bilbo Baggins of Bag End announced..."
+      },
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/someone"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 131,
+  "revision": 131,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:34:21.437031"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-01T08:00:00.000000"
+  }
+}

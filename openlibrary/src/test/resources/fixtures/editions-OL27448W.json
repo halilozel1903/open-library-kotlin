@@ -1,0 +1,80 @@
+{
+  "links": {
+    "self": "/works/OL27448W/editions.json?limit=2",
+    "work": "/works/OL27448W",
+    "next": "/works/OL27448W/editions.json?limit=2&offset=2"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "key": "/books/OL51711484M",
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "HarperCollins"
+      ],
+      "publish_date": "Oct 20, 2020",
+      "number_of_pages": 1216,
+      "physical_format": "Paperback",
+      "isbn_13": [
+        "9780358439196"
+      ],
+      "covers": [
+        12577217
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      }
+    },
+    {
+      "key": "/books/OL9999M",
+      "title": "Le Seigneur des anneaux",
+      "publishers": [
+        "Christian Bourgois"
+      ],
+      "publish_date": "1972",
+      "covers": [
+        -1
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translated by Francis Ledoux."
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Quand M. Bilbon Sacquet..."
+      },
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ]
+    },
+    {
+      "key": "/books/OLbadM",
+      "title": "Broken record",
+      "number_of_pages": {
+        "oops": true
+      }
+    }
+  ]
+}

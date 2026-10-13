@@ -1,0 +1,20 @@
+{
+  "links": {
+    "self": "/works/OL27448W/editions.json?limit=2&offset=2",
+    "work": "/works/OL27448W",
+    "prev": "/works/OL27448W/editions.json?limit=2"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "key": "/books/OL7353617M",
+      "title": "The Fellowship of the Ring",
+      "publish_date": "1954",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ]
+    }
+  ]
+}

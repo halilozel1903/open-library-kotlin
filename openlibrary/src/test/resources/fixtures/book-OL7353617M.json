@@ -1,0 +1,46 @@
+{
+  "key": "/books/OL7353617M",
+  "title": "Fantastic Mr. Fox",
+  "publishers": [
+    "Puffin"
+  ],
+  "publish_date": "October 1, 1988",
+  "number_of_pages": 96,
+  "physical_format": "Paperback",
+  "isbn_10": [
+    "0140328726"
+  ],
+  "isbn_13": [
+    "9780140328721"
+  ],
+  "covers": [
+    8739161
+  ],
+  "identifiers": {
+    "goodreads": [
+      "1507552"
+    ],
+    "librarything": [
+      "6446"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL45804W"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL34184A"
+    }
+  ],
+  "description": "A fox outwits three farmers.",
+  "type": {
+    "key": "/type/edition"
+  }
+}

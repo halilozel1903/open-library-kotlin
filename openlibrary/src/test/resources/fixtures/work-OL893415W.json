@@ -1,0 +1,26 @@
+{
+  "key": "/works/OL893415W",
+  "title": "Dune",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL79034A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": "/authors/OL2A"
+    }
+  ],
+  "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides.",
+  "covers": [
+    11481354
+  ],
+  "first_publish_date": "August 1965",
+  "type": {
+    "key": "/type/work"
+  },
+  "created": "2009-12-10T01:50:13.818355"
+}
